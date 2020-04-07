@@ -4,3 +4,8 @@ rencana rebahan sekarang
 -rebahan 3
 -rebahan 4
 -rebahan 5
+-rebahan 6
+-rebahan 7
+-rebahan 8
+-rebahan 9
+-rebahan 10
